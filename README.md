@@ -1,4 +1,4 @@
-# CrudPHP
+# CrudPHP - New App
 
 Proyecto de php del ciclo Desarrollo de Aplicaciones Multiplataforma en la que creé un crud de una base de datos mysql en php.
 
